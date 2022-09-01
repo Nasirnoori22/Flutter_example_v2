@@ -1,6 +1,7 @@
 import 'package:example_v2/pages/responsive_grid.dart';
 import 'package:example_v2/pages/responsive_sizer.dart';
 import 'package:example_v2/pages/slidable.dart';
+import 'package:example_v2/pages/we_slide.dart';
 import 'package:flutter/material.dart';
 import 'package:responsive_sizer/responsive_sizer.dart';
 
@@ -29,7 +30,7 @@ class MyApp extends StatelessWidget {
           // is not restarted.
           primarySwatch: Colors.blue,
         ),
-        home: const SlidablePage(),
+        home: const WeSlidePage(),
       );
     });
   }

@@ -37,6 +37,7 @@ dependencies:
   responsive_sizer: ^3.0.8
   responsive_grid: ^2.1.0
   flutter_slidable: ^2.0.0
+  we_slide: ^2.3.0
 
 
 dev_dependencies:
